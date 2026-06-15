@@ -1,44 +1,61 @@
 # Hi, I’m Stormz
 
-I build software with a focus on performance, privacy, and clean architecture. I enjoy working across the stack and contributing to open source projects that respect users and keep things minimal, fast, and transparent.
+I build software with a focus on performance, privacy, and clean architecture. I work across the stack and contribute to open source projects that are minimal, fast, and transparent.
 
-## What I work with
+---
 
-**Frontend**
-- Svelte
-- React
-- Next.js
-- Tailwind CSS
-- HTML / CSS
-- TypeScript
+## Tech Stack
 
-**Backend / Systems**
-- Rust
-- Python
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" />
+</p>
+
+### Backend / Systems
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+</p>
+
+---
 
 ## What I build
 
-- Privacy-focused applications
+- Privacy-focused software
 - Open-source tools and libraries
-- Fast, minimal web apps
+- Fast, minimal web applications
 - Developer tooling and utilities
-- Systems-level projects in Rust
+- Systems-level software in Rust
+
+---
 
 ## Philosophy
 
-- Privacy by default
-- No unnecessary bloat
-- Performance matters
-- Keep dependencies minimal and intentional
-- Open source where it makes sense
+- Privacy by design
+- No unnecessary dependencies
+- Performance-first engineering
+- Minimal, intentional architecture
+- Open source when it makes sense
+
+---
 
 ## Interests
 
 - Systems programming
-- Web performance optimization
-- Security and privacy engineering
-- Clean UI/UX without frameworks overhead
-- Building tools that stay out of the user's way
+- Web performance engineering
+- Security and privacy-focused design
+- Clean UI/UX without framework bloat
+- Tools that stay out of the way
+
+---
 
 ## Contact
 
