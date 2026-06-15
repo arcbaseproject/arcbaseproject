@@ -1,146 +1,45 @@
-# Contributing to Arcbase
+# Hi, I’m Stormz
 
-First off, thank you for considering contributing to Arcbase! Arcbase is a community-driven project focused on building streamlined, performance-oriented Windows optimization tools. Your contributions help improve reliability, transparency, and user control.
+I build software with a focus on performance, privacy, and clean architecture. I enjoy working across the stack and contributing to open source projects that respect users and keep things minimal, fast, and transparent.
 
-This guide applies to all repositories under the Arcbase organization, including ArcOS and related tooling.
+## What I work with
 
-## Code of Conduct
+**Frontend**
+- Svelte
+- React
+- Next.js
+- Tailwind CSS
+- HTML / CSS
+- TypeScript
 
-By participating in this project, you agree to maintain a respectful, constructive, and inclusive environment. Collaboration should remain professional and focused on improving the project.
+**Backend / Systems**
+- Rust
+- Python
 
-## How Can I Contribute?
+## What I build
 
-### Bug Reports
+- Privacy-focused applications
+- Open-source tools and libraries
+- Fast, minimal web apps
+- Developer tooling and utilities
+- Systems-level projects in Rust
 
-If you find a bug:
+## Philosophy
 
-1. Search existing issues first.
-2. If it’s new, open an issue including:
-   - A clear title
-   - Steps to reproduce
-   - Expected vs actual behavior
-   - Windows version/build
-   - ArcOS version
+- Privacy by default
+- No unnecessary bloat
+- Performance matters
+- Keep dependencies minimal and intentional
+- Open source where it makes sense
 
-Be specific. Clear reports help us resolve issues faster.
+## Interests
 
-### Security Concerns
+- Systems programming
+- Web performance optimization
+- Security and privacy engineering
+- Clean UI/UX without frameworks overhead
+- Building tools that stay out of the user's way
 
-Do not report security-related concerns via public issues.
+## Contact
 
-Instead, contact:
-
-security@arcbase.one
-
-(Replace with your actual contact email before publishing.)
-
-### Feature Requests
-
-Before submitting a feature request:
-
-- Check if it has already been proposed.
-- Explain the problem it solves.
-- Describe the expected behavior.
-- Consider compatibility with Windows 10 and 11.
-
-Arcbase prioritizes:
-- Stability
-- Reversibility
-- Update compatibility
-- Clean system modification practices
-
-### Documentation Contributions
-
-Clear documentation is critical for system-level tools.
-
-You can help by:
-
-- Improving README clarity
-- Adding usage examples
-- Expanding troubleshooting sections
-- Writing rollback guidance
-- Translating documentation
-
-### Code Contributions
-
-1. Find an Issue  
-   Look for `good first issue` or `help wanted`.
-
-2. Fork & Clone  
-   Fork the repository and clone it locally.
-
-3. Create a Branch  
-   Use descriptive naming, for example:
-   - feature/ui-optimization
-   - fix/service-detection
-   - improvement/uninstall-logic
-
-4. Follow Project Structure  
-   - Keep modules modular.
-   - Respect config-based toggles.
-   - Avoid hardcoding values where possible.
-
-5. Test in a VM  
-   Never submit changes without testing in:
-   - A clean Windows 10 or 11 VM
-   - After reboot
-   - After Windows Update check
-
-6. Open a Pull Request  
-   Include:
-   - A clear summary
-   - Windows build tested on
-   - Before/after behavior
-   - Screenshots (if UI-related)
-
-## Development Ecosystem
-
-Arcbase primarily uses:
-
-- PowerShell — system configuration and automation
-- Batch scripts — launchers and privilege elevation
-- JSON — configuration control
-- Git — version control
-
-Future tooling may include:
-
-- Installer packaging
-- GUI frontend (WPF / WinUI)
-- Automated test validation in virtual environments
-
-## Style & Quality Standards
-
-- Keep scripts modular and readable.
-- Avoid unsafe system modifications.
-- Do not remove servicing stack components.
-- Always provide uninstall or rollback paths.
-- Prefer policy-based configuration over binary tampering.
-
-Arcbase prioritizes long-term system stability over aggressive stripping.
-
-## Release Guidelines
-
-Before submitting features that:
-
-- Modify services
-- Change system policies
-- Adjust system behavior
-
-You must test:
-
-- Reboot stability
-- Windows Update functionality
-- Defender integrity
-- Driver installation
-- New user account behavior
-
-## Community
-
-Project resources:
-
-GitHub: https://github.com/arcbase  
-Contact: hello@arcbase.one  
-
-(Replace URLs and emails before publishing.)
-
-Thank you for contributing to Arcbase.
+stormz5m@proton.me
