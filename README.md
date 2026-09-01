@@ -1,62 +1,40 @@
-# Hi, I’m Stormz
+# Hi, I'm Stormz
 
-I build software with a focus on performance, privacy, and clean architecture. I work across the stack and contribute to open source projects that are minimal, fast, and transparent.
+I build software, mess with systems, and spend a lot of time figuring out how things work under the hood.
 
----
+Right now I'm learning more about systems programming, AI, and building software from scratch.
 
-## Tech Stack
-
-### Frontend
+## Tech
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="Zig" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
 </p>
-
-### Backend / Systems
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="Svelte" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 </p>
 
----
+## I'm interested in
 
-## What I build
+* Systems programming
+* Operating systems
+* AI and language models
+* Developer tools
+* Linux
+* Open source
 
-- Privacy-focused software
-- Open-source tools and libraries
-- Fast, minimal web applications
-- Developer tooling and utilities
-- Systems-level software in Rust
+## Building
 
----
+I like projects where I can understand most of the stack instead of hiding everything behind frameworks and dependencies.
 
-## Philosophy
-
-- Privacy by design
-- No unnecessary dependencies
-- Performance-first engineering
-- Minimal, intentional architecture
-- Open source when it makes sense
-
----
-
-## Interests
-
-- Systems programming
-- Web performance engineering
-- Security and privacy-focused design
-- Clean UI/UX without framework bloat
-- Tools that stay out of the way
-
----
+You'll find experiments, unfinished ideas, tools, and whatever I'm learning at the moment on here.
 
 ## Contact
 
-stormz5m@proton.me
+**[stormz5m@proton.me](mailto:stormz5m@proton.me)**
